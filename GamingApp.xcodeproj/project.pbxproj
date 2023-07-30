@@ -7,13 +7,36 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		BC08E4A82A752AE8001D5CEB /* OnboardingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BC08E4A72A752AE8001D5CEB /* OnboardingView.swift */; };
+		BC08E4AB2A752B18001D5CEB /* d3-stories-instagram in Frameworks */ = {isa = PBXBuildFile; productRef = BC08E4AA2A752B18001D5CEB /* d3-stories-instagram */; };
+		BC08E4B32A752D4B001D5CEB /* LoadingRectangle.swift in Sources */ = {isa = PBXBuildFile; fileRef = BC08E4B22A752D4B001D5CEB /* LoadingRectangle.swift */; };
+		BC08E4B62A752F9A001D5CEB /* StoryTimer.swift in Sources */ = {isa = PBXBuildFile; fileRef = BC08E4B52A752F9A001D5CEB /* StoryTimer.swift */; };
+		BC36C5532A757C3900B67505 /* LabelledDivider.swift in Sources */ = {isa = PBXBuildFile; fileRef = BC36C5522A757C3900B67505 /* LabelledDivider.swift */; };
+		BC36C5552A75869F00B67505 /* SkipButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = BC36C5542A75869F00B67505 /* SkipButton.swift */; };
+		BC36C5592A7586F100B67505 /* OTPView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BC36C5582A7586F100B67505 /* OTPView.swift */; };
+		BC36C55B2A75942700B67505 /* ProfileCreationView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BC36C55A2A75942700B67505 /* ProfileCreationView.swift */; };
+		BC36C55E2A76604200B67505 /* HomeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BC36C55D2A76604200B67505 /* HomeView.swift */; };
+		BC36C5602A766B1200B67505 /* NavigationView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BC36C55F2A766B1200B67505 /* NavigationView.swift */; };
+		BC36C5662A76732500B67505 /* ExploreView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BC36C5652A76732500B67505 /* ExploreView.swift */; };
+		BC36C5682A76734200B67505 /* SearchView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BC36C5672A76734200B67505 /* SearchView.swift */; };
+		BC36C56A2A76739100B67505 /* InboxView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BC36C5692A76739100B67505 /* InboxView.swift */; };
+		BC36C56C2A76739A00B67505 /* ProfileView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BC36C56B2A76739A00B67505 /* ProfileView.swift */; };
+		BC36C5702A767DBA00B67505 /* GamesView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BC36C56F2A767DBA00B67505 /* GamesView.swift */; };
+		BC36C5722A767E2E00B67505 /* NewsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BC36C5712A767E2E00B67505 /* NewsView.swift */; };
+		BC36C5742A767E3C00B67505 /* DealsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BC36C5732A767E3C00B67505 /* DealsView.swift */; };
+		BC36C5762A767E4800B67505 /* EventsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BC36C5752A767E4800B67505 /* EventsView.swift */; };
+		BC36C5782A767E5300B67505 /* NFTView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BC36C5772A767E5300B67505 /* NFTView.swift */; };
+		BC36C57C2A76859000B67505 /* GamesMockupData.swift in Sources */ = {isa = PBXBuildFile; fileRef = BC36C57B2A76859000B67505 /* GamesMockupData.swift */; };
 		BC5039882A751483005C6885 /* GamingAppApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = BC5039872A751483005C6885 /* GamingAppApp.swift */; };
-		BC50398A2A751483005C6885 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BC5039892A751483005C6885 /* ContentView.swift */; };
 		BC50398C2A751484005C6885 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BC50398B2A751484005C6885 /* Assets.xcassets */; };
 		BC50398F2A751484005C6885 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BC50398E2A751484005C6885 /* Preview Assets.xcassets */; };
 		BC5039992A751484005C6885 /* GamingAppTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = BC5039982A751484005C6885 /* GamingAppTests.swift */; };
 		BC5039A32A751484005C6885 /* GamingAppUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = BC5039A22A751484005C6885 /* GamingAppUITests.swift */; };
 		BC5039A52A751484005C6885 /* GamingAppUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = BC5039A42A751484005C6885 /* GamingAppUITestsLaunchTests.swift */; };
+		BCE0F6312A753BF8008D6202 /* SignUpView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BCE0F6302A753BF8008D6202 /* SignUpView.swift */; };
+		BCE0F6332A753F3F008D6202 /* OnboardingProgressBar.swift in Sources */ = {isa = PBXBuildFile; fileRef = BCE0F6322A753F3F008D6202 /* OnboardingProgressBar.swift */; };
+		BCE0F6352A753F5E008D6202 /* ProgressNavigation.swift in Sources */ = {isa = PBXBuildFile; fileRef = BCE0F6342A753F5E008D6202 /* ProgressNavigation.swift */; };
+		BCE0F6392A754316008D6202 /* OnboardingMockupData.swift in Sources */ = {isa = PBXBuildFile; fileRef = BCE0F6382A754316008D6202 /* OnboardingMockupData.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -34,9 +57,27 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		BC08E4A72A752AE8001D5CEB /* OnboardingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OnboardingView.swift; sourceTree = "<group>"; };
+		BC08E4B22A752D4B001D5CEB /* LoadingRectangle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoadingRectangle.swift; sourceTree = "<group>"; };
+		BC08E4B52A752F9A001D5CEB /* StoryTimer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StoryTimer.swift; sourceTree = "<group>"; };
+		BC36C5522A757C3900B67505 /* LabelledDivider.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LabelledDivider.swift; sourceTree = "<group>"; };
+		BC36C5542A75869F00B67505 /* SkipButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SkipButton.swift; sourceTree = "<group>"; };
+		BC36C5582A7586F100B67505 /* OTPView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OTPView.swift; sourceTree = "<group>"; };
+		BC36C55A2A75942700B67505 /* ProfileCreationView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileCreationView.swift; sourceTree = "<group>"; };
+		BC36C55D2A76604200B67505 /* HomeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeView.swift; sourceTree = "<group>"; };
+		BC36C55F2A766B1200B67505 /* NavigationView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NavigationView.swift; sourceTree = "<group>"; };
+		BC36C5652A76732500B67505 /* ExploreView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExploreView.swift; sourceTree = "<group>"; };
+		BC36C5672A76734200B67505 /* SearchView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchView.swift; sourceTree = "<group>"; };
+		BC36C5692A76739100B67505 /* InboxView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InboxView.swift; sourceTree = "<group>"; };
+		BC36C56B2A76739A00B67505 /* ProfileView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileView.swift; sourceTree = "<group>"; };
+		BC36C56F2A767DBA00B67505 /* GamesView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GamesView.swift; sourceTree = "<group>"; };
+		BC36C5712A767E2E00B67505 /* NewsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewsView.swift; sourceTree = "<group>"; };
+		BC36C5732A767E3C00B67505 /* DealsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DealsView.swift; sourceTree = "<group>"; };
+		BC36C5752A767E4800B67505 /* EventsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EventsView.swift; sourceTree = "<group>"; };
+		BC36C5772A767E5300B67505 /* NFTView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NFTView.swift; sourceTree = "<group>"; };
+		BC36C57B2A76859000B67505 /* GamesMockupData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GamesMockupData.swift; sourceTree = "<group>"; };
 		BC5039842A751483005C6885 /* GamingApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = GamingApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		BC5039872A751483005C6885 /* GamingAppApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GamingAppApp.swift; sourceTree = "<group>"; };
-		BC5039892A751483005C6885 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		BC50398B2A751484005C6885 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		BC50398E2A751484005C6885 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		BC5039942A751484005C6885 /* GamingAppTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = GamingAppTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -44,6 +85,10 @@
 		BC50399E2A751484005C6885 /* GamingAppUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = GamingAppUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		BC5039A22A751484005C6885 /* GamingAppUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GamingAppUITests.swift; sourceTree = "<group>"; };
 		BC5039A42A751484005C6885 /* GamingAppUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GamingAppUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		BCE0F6302A753BF8008D6202 /* SignUpView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SignUpView.swift; sourceTree = "<group>"; };
+		BCE0F6322A753F3F008D6202 /* OnboardingProgressBar.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OnboardingProgressBar.swift; sourceTree = "<group>"; };
+		BCE0F6342A753F5E008D6202 /* ProgressNavigation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProgressNavigation.swift; sourceTree = "<group>"; };
+		BCE0F6382A754316008D6202 /* OnboardingMockupData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OnboardingMockupData.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -51,6 +96,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				BC08E4AB2A752B18001D5CEB /* d3-stories-instagram in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -71,6 +117,118 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		BC08E4A62A752AD4001D5CEB /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				BC36C5642A7672FF00B67505 /* Profile */,
+				BC36C5632A7672F200B67505 /* Inbox */,
+				BC36C5622A7672E800B67505 /* Search */,
+				BC36C5612A7672D800B67505 /* Explore */,
+				BC36C55C2A76603300B67505 /* Home */,
+				BCE0F62F2A753B9E008D6202 /* Authentication */,
+				BC08E4AF2A752D27001D5CEB /* Onboarding */,
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
+		BC08E4AC2A752D06001D5CEB /* Components */ = {
+			isa = PBXGroup;
+			children = (
+				BC08E4B22A752D4B001D5CEB /* LoadingRectangle.swift */,
+				BCE0F6322A753F3F008D6202 /* OnboardingProgressBar.swift */,
+				BCE0F6342A753F5E008D6202 /* ProgressNavigation.swift */,
+			);
+			path = Components;
+			sourceTree = "<group>";
+		};
+		BC08E4AF2A752D27001D5CEB /* Onboarding */ = {
+			isa = PBXGroup;
+			children = (
+				BC08E4AC2A752D06001D5CEB /* Components */,
+				BC08E4A72A752AE8001D5CEB /* OnboardingView.swift */,
+			);
+			path = Onboarding;
+			sourceTree = "<group>";
+		};
+		BC08E4B42A752F87001D5CEB /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				BC08E4B52A752F9A001D5CEB /* StoryTimer.swift */,
+			);
+			path = Resources;
+			sourceTree = "<group>";
+		};
+		BC36C5512A757C2800B67505 /* Components */ = {
+			isa = PBXGroup;
+			children = (
+				BC36C5522A757C3900B67505 /* LabelledDivider.swift */,
+				BC36C5542A75869F00B67505 /* SkipButton.swift */,
+			);
+			path = Components;
+			sourceTree = "<group>";
+		};
+		BC36C55C2A76603300B67505 /* Home */ = {
+			isa = PBXGroup;
+			children = (
+				BC36C5792A767E8700B67505 /* Components */,
+				BC36C55D2A76604200B67505 /* HomeView.swift */,
+				BC36C55F2A766B1200B67505 /* NavigationView.swift */,
+				BC36C56F2A767DBA00B67505 /* GamesView.swift */,
+				BC36C5712A767E2E00B67505 /* NewsView.swift */,
+				BC36C5732A767E3C00B67505 /* DealsView.swift */,
+				BC36C5752A767E4800B67505 /* EventsView.swift */,
+				BC36C5772A767E5300B67505 /* NFTView.swift */,
+			);
+			path = Home;
+			sourceTree = "<group>";
+		};
+		BC36C5612A7672D800B67505 /* Explore */ = {
+			isa = PBXGroup;
+			children = (
+				BC36C5652A76732500B67505 /* ExploreView.swift */,
+			);
+			path = Explore;
+			sourceTree = "<group>";
+		};
+		BC36C5622A7672E800B67505 /* Search */ = {
+			isa = PBXGroup;
+			children = (
+				BC36C5672A76734200B67505 /* SearchView.swift */,
+			);
+			path = Search;
+			sourceTree = "<group>";
+		};
+		BC36C5632A7672F200B67505 /* Inbox */ = {
+			isa = PBXGroup;
+			children = (
+				BC36C5692A76739100B67505 /* InboxView.swift */,
+			);
+			path = Inbox;
+			sourceTree = "<group>";
+		};
+		BC36C5642A7672FF00B67505 /* Profile */ = {
+			isa = PBXGroup;
+			children = (
+				BC36C56B2A76739A00B67505 /* ProfileView.swift */,
+			);
+			path = Profile;
+			sourceTree = "<group>";
+		};
+		BC36C5792A767E8700B67505 /* Components */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Components;
+			sourceTree = "<group>";
+		};
+		BC36C57A2A76857E00B67505 /* Games */ = {
+			isa = PBXGroup;
+			children = (
+				BC36C57B2A76859000B67505 /* GamesMockupData.swift */,
+			);
+			path = Games;
+			sourceTree = "<group>";
+		};
 		BC50397B2A751483005C6885 = {
 			isa = PBXGroup;
 			children = (
@@ -94,8 +252,10 @@
 		BC5039862A751483005C6885 /* GamingApp */ = {
 			isa = PBXGroup;
 			children = (
+				BCE0F6362A7542F4008D6202 /* MockupData */,
+				BC08E4B42A752F87001D5CEB /* Resources */,
+				BC08E4A62A752AD4001D5CEB /* Views */,
 				BC5039872A751483005C6885 /* GamingAppApp.swift */,
-				BC5039892A751483005C6885 /* ContentView.swift */,
 				BC50398B2A751484005C6885 /* Assets.xcassets */,
 				BC50398D2A751484005C6885 /* Preview Content */,
 			);
@@ -127,6 +287,34 @@
 			path = GamingAppUITests;
 			sourceTree = "<group>";
 		};
+		BCE0F62F2A753B9E008D6202 /* Authentication */ = {
+			isa = PBXGroup;
+			children = (
+				BC36C5512A757C2800B67505 /* Components */,
+				BCE0F6302A753BF8008D6202 /* SignUpView.swift */,
+				BC36C5582A7586F100B67505 /* OTPView.swift */,
+				BC36C55A2A75942700B67505 /* ProfileCreationView.swift */,
+			);
+			path = Authentication;
+			sourceTree = "<group>";
+		};
+		BCE0F6362A7542F4008D6202 /* MockupData */ = {
+			isa = PBXGroup;
+			children = (
+				BCE0F6372A754301008D6202 /* Onboarding */,
+			);
+			path = MockupData;
+			sourceTree = "<group>";
+		};
+		BCE0F6372A754301008D6202 /* Onboarding */ = {
+			isa = PBXGroup;
+			children = (
+				BC36C57A2A76857E00B67505 /* Games */,
+				BCE0F6382A754316008D6202 /* OnboardingMockupData.swift */,
+			);
+			path = Onboarding;
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -143,6 +331,9 @@
 			dependencies = (
 			);
 			name = GamingApp;
+			packageProductDependencies = (
+				BC08E4AA2A752B18001D5CEB /* d3-stories-instagram */,
+			);
 			productName = GamingApp;
 			productReference = BC5039842A751483005C6885 /* GamingApp.app */;
 			productType = "com.apple.product-type.application";
@@ -215,6 +406,9 @@
 				Base,
 			);
 			mainGroup = BC50397B2A751483005C6885;
+			packageReferences = (
+				BC08E4A92A752B18001D5CEB /* XCRemoteSwiftPackageReference "d3-stories-instagram" */,
+			);
 			productRefGroup = BC5039852A751483005C6885 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
@@ -257,7 +451,29 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				BC50398A2A751483005C6885 /* ContentView.swift in Sources */,
+				BC36C5552A75869F00B67505 /* SkipButton.swift in Sources */,
+				BC36C5722A767E2E00B67505 /* NewsView.swift in Sources */,
+				BC36C5742A767E3C00B67505 /* DealsView.swift in Sources */,
+				BC36C55E2A76604200B67505 /* HomeView.swift in Sources */,
+				BC36C5532A757C3900B67505 /* LabelledDivider.swift in Sources */,
+				BC36C5592A7586F100B67505 /* OTPView.swift in Sources */,
+				BCE0F6352A753F5E008D6202 /* ProgressNavigation.swift in Sources */,
+				BC08E4B32A752D4B001D5CEB /* LoadingRectangle.swift in Sources */,
+				BC36C5682A76734200B67505 /* SearchView.swift in Sources */,
+				BC36C56A2A76739100B67505 /* InboxView.swift in Sources */,
+				BC36C5702A767DBA00B67505 /* GamesView.swift in Sources */,
+				BC36C57C2A76859000B67505 /* GamesMockupData.swift in Sources */,
+				BC36C5662A76732500B67505 /* ExploreView.swift in Sources */,
+				BC08E4A82A752AE8001D5CEB /* OnboardingView.swift in Sources */,
+				BC36C5602A766B1200B67505 /* NavigationView.swift in Sources */,
+				BC36C5762A767E4800B67505 /* EventsView.swift in Sources */,
+				BCE0F6332A753F3F008D6202 /* OnboardingProgressBar.swift in Sources */,
+				BC08E4B62A752F9A001D5CEB /* StoryTimer.swift in Sources */,
+				BC36C55B2A75942700B67505 /* ProfileCreationView.swift in Sources */,
+				BCE0F6312A753BF8008D6202 /* SignUpView.swift in Sources */,
+				BC36C56C2A76739A00B67505 /* ProfileView.swift in Sources */,
+				BCE0F6392A754316008D6202 /* OnboardingMockupData.swift in Sources */,
+				BC36C5782A767E5300B67505 /* NFTView.swift in Sources */,
 				BC5039882A751483005C6885 /* GamingAppApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -420,11 +636,12 @@
 				DEVELOPMENT_TEAM = G5BSGM35FT;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_CFBundleDisplayName = Nexplay;
+				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.games";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = UIInterfaceOrientationPortrait;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -449,11 +666,12 @@
 				DEVELOPMENT_TEAM = G5BSGM35FT;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_CFBundleDisplayName = Nexplay;
+				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.games";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = UIInterfaceOrientationPortrait;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -583,6 +801,25 @@
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
+
+/* Begin XCRemoteSwiftPackageReference section */
+		BC08E4A92A752B18001D5CEB /* XCRemoteSwiftPackageReference "d3-stories-instagram" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/The-Igor/d3-stories-instagram";
+			requirement = {
+				branch = main;
+				kind = branch;
+			};
+		};
+/* End XCRemoteSwiftPackageReference section */
+
+/* Begin XCSwiftPackageProductDependency section */
+		BC08E4AA2A752B18001D5CEB /* d3-stories-instagram */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = BC08E4A92A752B18001D5CEB /* XCRemoteSwiftPackageReference "d3-stories-instagram" */;
+			productName = "d3-stories-instagram";
+		};
+/* End XCSwiftPackageProductDependency section */
 	};
 	rootObject = BC50397C2A751483005C6885 /* Project object */;
 }

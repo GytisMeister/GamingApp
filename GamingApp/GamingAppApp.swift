@@ -9,9 +9,10 @@ import SwiftUI
 
 @main
 struct GamingAppApp: App {
+    
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            OnboardingView(onBoardingItems: onboardingItems)
         }
     }
 }
