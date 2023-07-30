@@ -20,14 +20,14 @@ The project currently includes the following screens:
 ## Screenshots
 
 <p align="center">
-  <img src="https://github.com/GytisMeister/Nexplay-SwiftUI/blob/main/Home_light.PNG" width="400">
-  <img src="https://github.com/GytisMeister/Nexplay-SwiftUI/blob/main/Home_dark.PNG" width="400">
-  <img src="https://github.com/GytisMeister/Nexplay-SwiftUI/blob/main/Onboarding_light.PNG" width="400">
-  <img src="https://github.com/GytisMeister/Nexplay-SwiftUI/blob/main/Onboarding_dark.PNG" width="400">
-  <img src="https://github.com/GytisMeister/Nexplay-SwiftUI/blob/main/Otp_light.PNG" width="400">
-  <img src="https://github.com/GytisMeister/Nexplay-SwiftUI/blob/main/otp_dark.PNG" width="400">
-  <img src="https://github.com/GytisMeister/Nexplay-SwiftUI/blob/main/SignUp_light.PNG" width="400">
-  <img src="https://github.com/GytisMeister/Nexplay-SwiftUI/blob/main/SignUp_dark.PNG" width="400">
+  <img src="https://github.com/GytisMeister/Nexplay-SwiftUI/blob/main/Home_light.PNG" width="150">
+  <img src="https://github.com/GytisMeister/Nexplay-SwiftUI/blob/main/Home_dark.PNG" width="150">
+  <img src="https://github.com/GytisMeister/Nexplay-SwiftUI/blob/main/Onboarding_light.PNG" width="150">
+  <img src="https://github.com/GytisMeister/Nexplay-SwiftUI/blob/main/Onboarding_dark.PNG" width="150">
+  <img src="https://github.com/GytisMeister/Nexplay-SwiftUI/blob/main/Otp_light.PNG" width="150">
+  <img src="https://github.com/GytisMeister/Nexplay-SwiftUI/blob/main/otp_dark.PNG" width="150">
+  <img src="https://github.com/GytisMeister/Nexplay-SwiftUI/blob/main/SignUp_light.PNG" width="150">
+  <img src="https://github.com/GytisMeister/Nexplay-SwiftUI/blob/main/SignUp_dark.PNG" width="150">
 </p>
 
 ## Future Plans
