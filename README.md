@@ -2,9 +2,9 @@
 
 ## Overview
 
-This project is a SwiftUI implementation of a gaming application UI design by [Yathish N](https://www.behance.net/yathishn), originally found on [Behance](https://www.behance.net/gallery/172972853/iOS-Social-Game-App-Nexplay?tracking_source=search_projects|gaming+iOS+app). This project is purely focused on the UI aspect and currently does not include backend functionality. It was created for educational purposes to further develop my UI programming skills using the SwiftUI framework.
+This project is a SwiftUI implementation of a gaming application UI design by [Yathish N](https://www.behance.net/yathishn), originally found on [Behance](https://www.behance.net/gallery/172972853/iOS-Social-Game-App-Nexplay?tracking_source=search_projects|gaming+iOS+app). This is purely focused on the UI aspect and currently does not include backend functionality. It was created for educational purposes to further develop my UI programming skills using the SwiftUI framework.
 
-**Note:** This project supports both light and dark modes.
+**Note:** Application supports both light and dark theme modes.
 
 ## Current Features
 
