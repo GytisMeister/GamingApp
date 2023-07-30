@@ -60,5 +60,5 @@ open Nexplay-SwiftUI.xcodeproj
 ## Contact ME
 
 Email: g.ptasinskas@icloud.com
-Linkedin: [Gytis Ptašinskas(https://www.linkedin.com/in/gytisptasinskas/)
+Linkedin: [Gytis Ptašinskas](https://www.linkedin.com/in/gytisptasinskas/)
 
