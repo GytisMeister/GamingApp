@@ -22,7 +22,9 @@ The project currently includes the following screens:
 
 ## Screenshots
 
-![Home Dark Mode](https://github.com/GytisMeister/Nexplay-SwiftUI/blob/main/Home_dark.PNG)
+<p align="center">
+  <img src="https://github.com/GytisMeister/Nexplay-SwiftUI/blob/main/Home_dark.PNG" width="500">
+</p>
 
 ## Future Plans
 
