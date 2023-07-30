@@ -20,6 +20,10 @@ The project currently includes the following screens:
 - Navigation Bar Screen
 - Home Screen (1/5 Tabs)
 
+## Screenshots
+
+![Home Dark Mode](https://github.com/GytisMeister/Nexplay-SwiftUI/blob/main/Home_dark.PNG)
+
 ## Future Plans
 
 The following features are planned to be implemented:
