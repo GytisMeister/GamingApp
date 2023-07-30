@@ -8,7 +8,6 @@
 
 /* Begin PBXBuildFile section */
 		BC08E4A82A752AE8001D5CEB /* OnboardingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BC08E4A72A752AE8001D5CEB /* OnboardingView.swift */; };
-		BC08E4AB2A752B18001D5CEB /* d3-stories-instagram in Frameworks */ = {isa = PBXBuildFile; productRef = BC08E4AA2A752B18001D5CEB /* d3-stories-instagram */; };
 		BC08E4B32A752D4B001D5CEB /* LoadingRectangle.swift in Sources */ = {isa = PBXBuildFile; fileRef = BC08E4B22A752D4B001D5CEB /* LoadingRectangle.swift */; };
 		BC08E4B62A752F9A001D5CEB /* StoryTimer.swift in Sources */ = {isa = PBXBuildFile; fileRef = BC08E4B52A752F9A001D5CEB /* StoryTimer.swift */; };
 		BC36C5532A757C3900B67505 /* LabelledDivider.swift in Sources */ = {isa = PBXBuildFile; fileRef = BC36C5522A757C3900B67505 /* LabelledDivider.swift */; };
@@ -96,7 +95,6 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				BC08E4AB2A752B18001D5CEB /* d3-stories-instagram in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -332,7 +330,6 @@
 			);
 			name = GamingApp;
 			packageProductDependencies = (
-				BC08E4AA2A752B18001D5CEB /* d3-stories-instagram */,
 			);
 			productName = GamingApp;
 			productReference = BC5039842A751483005C6885 /* GamingApp.app */;
@@ -407,7 +404,6 @@
 			);
 			mainGroup = BC50397B2A751483005C6885;
 			packageReferences = (
-				BC08E4A92A752B18001D5CEB /* XCRemoteSwiftPackageReference "d3-stories-instagram" */,
 			);
 			productRefGroup = BC5039852A751483005C6885 /* Products */;
 			projectDirPath = "";
@@ -801,25 +797,6 @@
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
-
-/* Begin XCRemoteSwiftPackageReference section */
-		BC08E4A92A752B18001D5CEB /* XCRemoteSwiftPackageReference "d3-stories-instagram" */ = {
-			isa = XCRemoteSwiftPackageReference;
-			repositoryURL = "https://github.com/The-Igor/d3-stories-instagram";
-			requirement = {
-				branch = main;
-				kind = branch;
-			};
-		};
-/* End XCRemoteSwiftPackageReference section */
-
-/* Begin XCSwiftPackageProductDependency section */
-		BC08E4AA2A752B18001D5CEB /* d3-stories-instagram */ = {
-			isa = XCSwiftPackageProductDependency;
-			package = BC08E4A92A752B18001D5CEB /* XCRemoteSwiftPackageReference "d3-stories-instagram" */;
-			productName = "d3-stories-instagram";
-		};
-/* End XCSwiftPackageProductDependency section */
 	};
 	rootObject = BC50397C2A751483005C6885 /* Project object */;
 }
