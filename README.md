@@ -32,7 +32,7 @@ The project currently includes the following screens:
 
 ## Future Plans
 
-The following features are planned to be implemented:
+The following UI screens are planned to be implemented:
 
 - News, Deals, Events, and NFT tabs on the home screen
 - Explore Screen
