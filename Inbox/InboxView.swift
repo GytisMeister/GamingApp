@@ -8,6 +8,7 @@
 import SwiftUI
 
 struct InboxView: View {
+    @EnvironmentObject var viewRouter: ViewRouter
     @State private var searchText : String = ""
     @State private var isMessageViewPresented: Bool = false
     var body: some View {
@@ -68,5 +69,6 @@ struct InboxView: View {
 struct InboxView_Previews: PreviewProvider {
     static var previews: some View {
         InboxView()
+            .environmentObject(ViewRouter())
     }
 }
