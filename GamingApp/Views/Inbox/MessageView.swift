@@ -79,4 +79,3 @@ struct MessageView_Previews: PreviewProvider {
         MessageView(isPresented: $isPreviewPresented)
     }
 }
-
