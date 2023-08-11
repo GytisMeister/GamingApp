@@ -16,6 +16,7 @@ The project currently includes the following screens:
 - Create a Profile Screen
 - Navigation Bar Screen
 - Home Screen (1/5 Tabs)
+- Inbox Screen
 
 ## Screenshots
 
@@ -37,7 +38,6 @@ The following UI screens are planned to be implemented:
 - News, Deals, Events, and NFT tabs on the home screen
 - Explore Screen
 - Search Screen
-- Inbox Screen
 - Profile Screen
 - Inside News Screen
 - Games Inside Screen
